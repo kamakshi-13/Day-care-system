@@ -1,0 +1,10 @@
+1 kamakshi 23 3434343434 jimmy bull none 400
+2 taksh 33 6767676767 gg gg none 8000
+Vehicle Number: VH12F7
+Entry Time: 2024-08-14 22:52:50 | Exit Time: 2024-08-14 22:53:06
+Parking Slot: 1 | Fee: ?0.8 | Additional Charges: ?10 | Total Amount: ?10.8
+-----------------------------------------
+Vehicle Number: Fh345
+Entry Time: 2024-08-14 22:54:06 | Exit Time: 2024-08-14 22:54:14
+Parking Slot: 1 | Fee: ?0.4 | Additional Charges: ?10 | Total Amount: ?10.4
+-----------------------------------------
